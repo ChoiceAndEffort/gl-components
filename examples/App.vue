@@ -42,8 +42,9 @@
 		<!-- 表格 -->
 		<div>
 			<h3>表格</h3>
+            <gl-table :list="list" :columns="columns"></gl-table>
 		</div>
-		<gl-table :list="list" :columns="columns"></gl-table>
+		
 	</div>
 </template>
 
