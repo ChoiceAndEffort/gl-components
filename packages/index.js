@@ -1,10 +1,10 @@
 import Button from './button.vue'
 import Dialog from './dialog.vue'
-import WsTable from "./wsTable.vue";
+import GlTable from "./glTable.vue";
 const components = [
   Button,
   Dialog,
-  WsTable
+  GlTable
 ]
 const install = function(Vue) {
   // 注册 组件

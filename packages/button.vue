@@ -16,7 +16,7 @@
 
 <script>
 export default {
-  name: "YoButton",
+  name: "GlButton",
   props: {
     type: {
       type: String,

@@ -14,7 +14,7 @@
 
 <script>
 export default {
-	name: 'YoDialog',
+	name: 'GlDialog',
 	props: {
 		visible: {
 			type: Boolean,

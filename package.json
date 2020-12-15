@@ -1,5 +1,5 @@
 {
-  "name": "yoshy-ui",
+  "name": "gl-components",
   "version": "0.1.5",
   "main": "dist/yoshy-ui.umd.min.js",
   "author": {
