@@ -1,7 +1,7 @@
 {
-  "name": "gl-components",
-  "version": "0.1.5",
-  "main": "dist/yoshy-ui.umd.min.js",
+  "name": "glkx-ui",
+  "version": "1.0.1",
+  "main": "dist/glkx-ui.umd.min.js",
   "author": {
     "name": "雷公"
   },

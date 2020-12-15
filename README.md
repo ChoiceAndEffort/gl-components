@@ -13,9 +13,9 @@ simple UI
 
 #### 使用说明
 main.js
-1.  import YoshyUI from 'yoshy-ui';
-2.  import 'yoshy-ui/dist/yoshy-ui.css';
-3.  Vue.use(YoshyUI);
+1.  import glKxUi from 'glkx-ui';
+2.  import 'glkx-ui/dist/glkx-ui.css';
+3.  Vue.use(glKxUi);
 
 #### 打包说明
 
